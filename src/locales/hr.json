@@ -1835,7 +1835,7 @@
   "trolley-inventory": "Inventura kolica",
   "trolley-is-empty": "Kolica su prazna",
   "trolley-link-not-possible": "Povezivanje kolica nije moguće.",
-  "trolley-link-not-possible-trolley-already-on-document": "Povezivanje kolica nije moguće. \n\nOdabrana kolica su već pridružena dokumentu \n '{{firstParam}}'",
+  "trolley-link-not-possible-trolley-already-on-document": "Povezivanje kolica nije moguće. \n\nOdabrana kolica su već pridružena dokumentu \n '{{firstParam}}' mjesta troška {{secondParam}}",
   "trolley-link-not-possible-trolley-document-not-open-for-packaging": "Povezivanje kolica nije moguće. \n\nDokument kolica nije otvoren za pakiranje.",
   "trolley-linked-to-locked-document-message": "Kolica {{firstParam}} povezana su sa zaključenim dokumentom {{secondParam}} te nije moguće mijenjati njihov sadržaj",
   "trolley-linked-to-some-document-message": "Kolica '{{firstParam}}' povezana su s dokumentom '{{secondParam}}' ('{{thirdParam}}'). Izmjena sadržaja kolica izmijenit će dokument.\n\nŽelite li nastaviti?",

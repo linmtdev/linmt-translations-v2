@@ -1833,7 +1833,7 @@
   "trolley-inventory": "Trolley inventory",
   "trolley-is-empty": "Trolley is empty",
   "trolley-link-not-possible": "Trolley connection not possible.",
-  "trolley-link-not-possible-trolley-already-on-document": "Trolley link not possible. \n\nSelected trolley already assigned to the document \n '{{firstParam}}'",
+  "trolley-link-not-possible-trolley-already-on-document": "Trolley link not possible. \n\nThe selected cart is already assigned to document '{{firstParam}}' for cost center {{secondParam}}.",
   "trolley-link-not-possible-trolley-document-not-open-for-packaging": "Trolley link not possible. \n\nTrolley document is not opened for packaging.",
   "trolley-linked-to-locked-document-message": "Trolley {{firstParam}} are linked to locked document {{secondParam}} and their content can't be changed",
   "trolley-linked-to-some-document-message": "Trolley '{{firstParam}}' is linked with the document '{{secondParam}}' ('{{thirdParam}}'). Changing the contents of the trolley will modify the document..\n\nDo you want to continue?",

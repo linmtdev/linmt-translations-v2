@@ -1831,7 +1831,7 @@
   "trolley-inventory": "Inventur des Wagens",
   "trolley-is-empty": "Der Wagen ist leer",
   "trolley-link-not-possible": "Die Verknüpfung des Wagens ist nicht möglich.",
-  "trolley-link-not-possible-trolley-already-on-document": "Der ausgewählte Wagen ist bereits dem Dokument\n\n''{{firstParam}}' zugeordnet",
+  "trolley-link-not-possible-trolley-already-on-document": "Die Verknüpfung des Warenkorbs ist nicht möglich.\n\nDer ausgewählte Warenkorb ist bereits dem Dokument '{{firstParam}}' der Kostenstelle {{secondParam}} zugeordnet.",
   "trolley-link-not-possible-trolley-document-not-open-for-packaging": "Die Verknüpfung des Wagens ist nicht möglich.\n\nDas Wagendokument ist nicht zum Verpacken geöffnet.",
   "trolley-linked-to-locked-document-message": "Wagen {{firstParam}} ist mit dem gesperrten Dokument {{secondParam}} verknüpft, daher kann der Inhalt nicht geändert werden",
   "trolley-linked-to-some-document-message": "Wagen '{{firstParam}}' ist mit dem Dokument '{{secondParam}}' ('{{thirdParam}}') verknüpft. Das Ändern des Wageninhalts ändert das Dokument.\n\nMöchten Sie fortfahren?",
