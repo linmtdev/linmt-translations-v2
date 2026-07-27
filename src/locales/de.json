@@ -6,6 +6,7 @@
   "access-denied": "Zugriff verweigert",
   "account-number": "Referenznummer",
   "accounting": "Interne Buchhaltung",
+  "accounting-document-cannot-be-canceled": "Die interne Abrechnung kann nicht rückgängig gemacht werden!",
   "accounting-type": "Abrechnungsart",
   "action-not-allowed": "Aktion nicht erlaubt, da dies zu einer negativen Menge des Artikels '{{firstParam}}' am Mietort '{{secondParam}}' führen würde",
   "action-not-allowed-trolley-not-empty": "Aktion nicht erlaubt. Der Wagen ist nicht leer!",
@@ -411,6 +412,7 @@
   "division-view": "Abteilungsansicht",
   "divisions": "Abteilungen",
   "document": "Dokument",
+  "document-already-canceled": "Das Dokument wurde bereits für ungültig erklärt.",
   "document-already-charged": "Dokument '{{firstParam}}' ist bereits belastet!",
   "document-already-locked": "Dokument ist bereits gesperrt",
   "document-already-scanned": "Dokument wurde bereits gescannt!",
@@ -599,6 +601,7 @@
   "error-updating-article-category": "Beim Aktualisieren der Artikelkategorie ist ein Fehler aufgetreten, bitte versuchen Sie es erneut.",
   "error-updating-initial-setup": "Beim Aktualisieren der Ersteinrichtung ist ein Fehler aufgetreten, bitte versuchen Sie es erneut.",
   "error-updating-pricelist": "Beim Aktualisieren der Preisliste ist ein Fehler aufgetreten, bitte versuchen Sie es erneut.",
+  "error-while-cancelling-document-invoice-period-open": "Fehler beim Stornieren der Rechnung, es ist eine Buchungsperiode geöffnet!",
   "error-while-changing-client-facility-status": "Beim Ändern des Status der Kostenstelle ist ein Fehler aufgetreten... Bitte versuchen Sie es erneut.",
   "error-while-changing-client-status": "Beim Ändern des Kundenstatus ist ein Fehler aufgetreten... Bitte versuchen Sie es erneut.",
   "error-while-changing-distribution-center-status": "Beim Ändern des Status des Verteilzentrums ist ein Fehler aufgetreten... Bitte versuchen Sie es erneut.",
@@ -2112,5 +2115,4 @@
   "output": "Ausgabe",
   "rfid-tags": "RFID-Tags",
   "device-packages": "Gerätepakete"
-
 }
