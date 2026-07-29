@@ -602,6 +602,7 @@
   "error-updating-initial-setup": "Beim Aktualisieren der Ersteinrichtung ist ein Fehler aufgetreten, bitte versuchen Sie es erneut.",
   "error-updating-pricelist": "Beim Aktualisieren der Preisliste ist ein Fehler aufgetreten, bitte versuchen Sie es erneut.",
   "error-while-cancelling-document-invoice-period-open": "Fehler beim Stornieren der Rechnung, es ist eine Buchungsperiode geöffnet!",
+  "error-while-cancelling-document-no-dispatch-available": "Fehler beim Stornieren der Rechnung, es ist keine passende Lieferung verfügbar!",
   "error-while-changing-client-facility-status": "Beim Ändern des Status der Kostenstelle ist ein Fehler aufgetreten... Bitte versuchen Sie es erneut.",
   "error-while-changing-client-status": "Beim Ändern des Kundenstatus ist ein Fehler aufgetreten... Bitte versuchen Sie es erneut.",
   "error-while-changing-distribution-center-status": "Beim Ändern des Status des Verteilzentrums ist ein Fehler aufgetreten... Bitte versuchen Sie es erneut.",

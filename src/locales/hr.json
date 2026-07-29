@@ -605,6 +605,7 @@
   "error-updating-initial-setup": "Došlo je do pogreške prilikom ažuriranja početne postave, molimo pokušajte ponovo.",
   "error-updating-pricelist": "Došlo je do pogreške prilikom ažuriranja cjenika, molimo pokušajte ponovo.",
   "error-while-cancelling-document-invoice-period-open": "Pogreška prilikom storniranja fakture, postoji otvoreno obračunsko razdoblje!",
+  "error-while-cancelling-document-no-dispatch-available": "Pogreška prilikom storniranja fakture, ne postoji odgovarajuća isporuka!",
   "error-while-changing-client-facility-status": "Došlo je do pogreške prilikom mjenjanja statusa mjesta troška... Molimo pokušajte ponovo",
   "error-while-changing-client-status": "Došlo je do pogreške prilikom mjenjanja statusa klijenta... Molimo pokušajte ponovo",
   "error-while-changing-distribution-center-status": "Došlo je do pogreške prilikom mjenjanja statusa distribucijskog centra... Molimo pokušajte ponovo",

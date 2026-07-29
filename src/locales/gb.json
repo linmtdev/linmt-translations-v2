@@ -604,6 +604,7 @@
   "error-updating-initial-setup": "Error while updating initial setup, please try again.",
   "error-updating-pricelist": "Error updating price list, please try again.",
   "error-while-cancelling-document-invoice-period-open": "Error while cancelling document, open invoice period exists!",
+  "error-while-cancelling-document-no-dispatch-available": "Error while cancelling document, dispatch not available!",
   "error-while-changing-client-facility-status": "Error while changing client facility status... Please try again",
   "error-while-changing-client-status": "Error while changing client status... Please try again",
   "error-while-changing-distribution-center-status": "Error while changing distribution center status... Please try again",
