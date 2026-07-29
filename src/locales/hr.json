@@ -2115,5 +2115,16 @@
   "price-list-linked": "Cjenik povezan",
   "bilingualism": "Dvojezičnost",
   "croatia": "Hrvatska",
-  "second-shipping": "Druga isporuka"
+  "second-shipping": "Druga isporuka",
+  "card-status": "Status kartice",
+  "not-linked": "Nije povezano",
+  "link-card": "Poveži karticu",
+  "card-code": "Kod kartice",
+  "change-card": "Promijeni karticu",
+  "remove-card-confirm": "Jeste li sigurni da želite ukloniti ovu karticu?",
+  "card-linked": "Kartica je uspješno povezana.",
+  "card-removed": "Kartica je uklonjena.",
+  "card-code-empty": "Kod kartice ne smije biti prazan.",
+  "card-code-invalid-format": "Neispravan format koda kartice.",
+  "card-already-assigned": "Ova kartica je već dodijeljena drugom korisniku."
 }

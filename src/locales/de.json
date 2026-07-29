@@ -2115,5 +2115,16 @@
   "output-recapitulation": "Ausgabe-Zusammenfassung",
   "output": "Ausgabe",
   "rfid-tags": "RFID-Tags",
-  "device-packages": "Gerätepakete"
+  "device-packages": "Gerätepakete",
+  "card-status": "Kartenstatus",
+  "not-linked": "Nicht verknüpft",
+  "link-card": "Karte verknüpfen",
+  "card-code": "Kartencode",
+  "change-card": "Karte ändern",
+  "remove-card-confirm": "Möchten Sie diese Karte wirklich entfernen?",
+  "card-linked": "Karte erfolgreich verknüpft.",
+  "card-removed": "Karte entfernt.",
+  "card-code-empty": "Der Kartencode darf nicht leer sein.",
+  "card-code-invalid-format": "Ungültiges Kartencode-Format.",
+  "card-already-assigned": "Diese Karte ist bereits einem anderen Benutzer zugewiesen."
 }

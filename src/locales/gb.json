@@ -2114,5 +2114,16 @@
   "output-recapitulation": "Output recapitulation",
   "output": "Output",
   "rfid-tags": "RFID tags",
-  "device-packages": "Device packages"
+  "device-packages": "Device packages",
+  "card-status": "Card status",
+  "not-linked": "Not linked",
+  "link-card": "Link card",
+  "card-code": "Card code",
+  "change-card": "Change card",
+  "remove-card-confirm": "Are you sure you want to remove this card?",
+  "card-linked": "Card linked successfully.",
+  "card-removed": "Card removed.",
+  "card-code-empty": "Card code must not be empty.",
+  "card-code-invalid-format": "Invalid card code format.",
+  "card-already-assigned": "This card is already assigned to another user."
 }
