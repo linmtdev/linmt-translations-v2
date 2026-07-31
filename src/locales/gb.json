@@ -208,6 +208,7 @@
   "card-code-empty": "Card code must not be empty.",
   "card-code-invalid-format": "Invalid card code format.",
   "card-linked": "Card linked successfully.",
+  "card-linked-status": "Linked",
   "card-removed": "Card removed.",
   "card-status": "Card status",
   "categories": "Categories",

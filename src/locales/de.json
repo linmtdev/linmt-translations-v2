@@ -208,6 +208,7 @@
   "card-code-empty": "Der Kartencode darf nicht leer sein.",
   "card-code-invalid-format": "Ungültiges Kartencode-Format.",
   "card-linked": "Karte erfolgreich verknüpft.",
+  "card-linked-status": "Verknüpft",
   "card-removed": "Karte entfernt.",
   "card-status": "Kartenstatus",
   "categories": "Kategorien",
