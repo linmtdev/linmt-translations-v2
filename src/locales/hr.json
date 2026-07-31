@@ -2128,5 +2128,13 @@
   "yellow": "Žuta",
   "yes": "Da",
   "yes-caps": "DA",
-  "yield": "Donos"
+  "yield": "Donos",
+  "More": "Više",
+  "operating-users-view": "Pregled operativnih korisnika",
+  "remove-trolley-from-document-check": "Jeste li sigurni da želite ukloniti kolica {{trolleyCode}} iz dokumenta?",
+  "setup-current-vs-initial": "Trenutačno / početno stanje",
+  "value-without-vat-eur": "Vrijednost bez PDV-a (EUR)",
+  "approval-must-be-entered": "Odobrenje mora biti uneseno",
+  "description": "Opis",
+  "category-view": "Pregled kategorija"
 }

@@ -2128,5 +2128,13 @@
   "yellow": "Gelb",
   "yes": "Ja",
   "yes-caps": "JA",
-  "yield": "Ertrag"
+  "yield": "Ertrag",
+  "More": "Mehr",
+  "operating-users-view": "Übersicht der operativen Benutzer",
+  "remove-trolley-from-document-check": "Sind Sie sicher, dass Sie den Rollwagen {{trolleyCode}} aus dem Dokument entfernen möchten?",
+  "setup-current-vs-initial": "Bestand aktuell / initial",
+  "value-without-vat-eur": "Wert ohne MwSt. (EUR)",
+  "approval-must-be-entered": "Freigabe muss eingegeben werden",
+  "description": "Beschreibung",
+  "category-view": "Kategorieansicht"
 }

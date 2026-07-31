@@ -2127,5 +2127,13 @@
   "yellow": "Yellow",
   "yes": "Yes",
   "yes-caps": "YES",
-  "yield": "Yield"
+  "yield": "Yield",
+  "More": "More",
+  "operating-users-view": "Operating users view",
+  "remove-trolley-from-document-check": "Are you sure you want to remove trolley {{trolleyCode}} from the document?",
+  "setup-current-vs-initial": "Current / initial stock",
+  "value-without-vat-eur": "Value without VAT (EUR)",
+  "approval-must-be-entered": "Approval must be entered",
+  "description": "Description",
+  "category-view": "Category view"
 }
