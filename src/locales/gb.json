@@ -245,9 +245,7 @@
   "check-out": "Check out",
   "check-package-quantity": "and check the quantity of items in the package.\n(standard quantity: {{firstParam}})",
   "check-scanner-ip-address": "Check the scanner's IP address on the configuration screen.",
-  "checkin-receipts": "Check-in Receipts",
   "checkin-view": "Checkin view",
-  "checkout-return": "Checkout Return",
   "checkout-stock": "Check out stock",
   "checkout-stock-view": "Checkout stock view",
   "checkout-view": "Checkout view",
@@ -1199,7 +1197,7 @@
   "output": "Output",
   "output-inv-recapitulation": "Output inv. recapitulation",
   "output-inv-recapitulation-reports": "Output inv. recapitulation reports",
-  "output-laundry-recapitulation-reports": "Output recapitulation",
+  "output-laundry-recapitulation-reports": "Output inv. recapitulation",
   "output-recapitulation": "Output recapitulation",
   "outside-trolley": "Not in trolley",
   "overall": "Overall",
@@ -1515,7 +1513,6 @@
   "rfid-info-scan": "RFID info scan",
   "rfid-inventory": "RFID inventory",
   "rfid-laundry-movement-records": "RFID laundry movement records",
-  "rfid-laundry-scan": "RFID Laundry Scan",
   "rfid-laundry-scan-view": "RFID laundry scan view",
   "rfid-package": "RFID package",
   "rfid-processing-does-not-exist-for-this-document-type": "RFID processing does not exist for this document type",
@@ -2135,5 +2132,9 @@
   "value-without-vat-eur": "Value without VAT (EUR)",
   "approval-must-be-entered": "Approval must be entered",
   "description": "Description",
-  "category-view": "Category view"
+  "category-view": "Category view",
+  "data": "Data",
+  "checkout-return": "Checkout return",
+  "checkin-receipts": "Cleckin receipts",
+  "rfid-laundry-scan": "RFID laundry scan"
 }

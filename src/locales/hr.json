@@ -245,9 +245,7 @@
   "check-out": "Reversi",
   "check-package-quantity": "i provjerite količinu artikala u paketu.\n(standardna količina: {{firstParam}})",
   "check-scanner-ip-address": "Provjerite IP adresu skenera na ekranu za konfiguraciju.",
-  "checkin-receipts": "Primke (Check-In)",
   "checkin-view": "Pregled povrata reversa",
-  "checkout-return": "Povrat (Check-Out)",
   "checkout-stock": "Stanje reversa",
   "checkout-stock-view": "Pregled stanja reversa",
   "checkout-view": "Pregled reversa",
@@ -1515,7 +1513,6 @@
   "rfid-info-scan": "Informativno skeniranje RFID čipova",
   "rfid-inventory": "RFID inventura",
   "rfid-laundry-movement-records": "Evidencija kretanja RFID rublja",
-  "rfid-laundry-scan": "RFID skeniranje rublja",
   "rfid-laundry-scan-view": "Pregled očitavanja RFID rublja",
   "rfid-package": "RFID paket",
   "rfid-processing-does-not-exist-for-this-document-type": "Ne postoji obrada RFID čipova za ovu vrstu dokumenta",
@@ -2108,7 +2105,7 @@
   "work-version-document-not-finalized": "radna verzija - dokument nije zaključen",
   "workload": "Radno opterećenje",
   "wp-name": "Naziv RM",
-  "write-off": "Rashod",
+  "write-off": "Otpis",
   "write-off-of-articles": "Deaktivacija i otpis RFID rublja",
   "write-off-view": "Pregled otpisa",
   "writeoff-confirm": "Jeste li sigurni da želite rashodovati očitane artikle?",
@@ -2136,5 +2133,9 @@
   "value-without-vat-eur": "Vrijednost bez PDV-a (EUR)",
   "approval-must-be-entered": "Odobrenje mora biti uneseno",
   "description": "Opis",
-  "category-view": "Pregled kategorija"
+  "category-view": "Pregled kategorija",
+  "data": "Podatci",
+  "checkout-return": "Vraćanje reversa",
+  "checkin-receipts": "Primke reversa",
+  "rfid-laundry-scan": "Očitavanje RFID rublja"
 }

@@ -245,9 +245,7 @@
   "check-out": "Auschecken",
   "check-package-quantity": "und überprüfen Sie die Menge der Artikel im Paket.\n(Standardmenge: {{firstParam}})",
   "check-scanner-ip-address": "Überprüfen Sie die IP-Adresse des Scanners im Konfigurationsbildschirm.",
-  "checkin-receipts": "Check-in Belege",
   "checkin-view": "Übersicht der Leihgabenrückgabe",
-  "checkout-return": "Check-out Rückgabe",
   "checkout-stock": "Ausgecheckter Bestand",
   "checkout-stock-view": "Übersicht des Leihgabenbestands",
   "checkout-view": "Übersicht der Leihgaben",
@@ -1200,7 +1198,7 @@
   "output": "Ausgabe",
   "output-inv-recapitulation": "Ausgabe-Inventur-Zusammenfassung",
   "output-inv-recapitulation-reports": "Berichte über die Rekapitulation der erbrachten Dienstleistungen",
-  "output-laundry-recapitulation-reports": "Ausgabe-Zusammenfassung",
+  "output-laundry-recapitulation-reports": "Ausgabe-Inventur-Zusammenfassung",
   "output-recapitulation": "Ausgabe-Zusammenfassung",
   "outside-trolley": "Außerhalb des Wagens",
   "overall": "Gesamt",
@@ -1516,7 +1514,6 @@
   "rfid-info-scan": "Informatives Scannen von RFID-Tags",
   "rfid-inventory": "RFID-Inventur",
   "rfid-laundry-movement-records": "Aufzeichnungen der RFID-Wäschebewegungen",
-  "rfid-laundry-scan": "RFID-Wäschescan",
   "rfid-laundry-scan-view": "Übersicht des RFID-Wäschescannens",
   "rfid-package": "RFID-Paket",
   "rfid-processing-does-not-exist-for-this-document-type": "Für diese Art von Dokument gibt es keine RFID-Chip-Verarbeitung",
@@ -2136,5 +2133,9 @@
   "value-without-vat-eur": "Wert ohne MwSt. (EUR)",
   "approval-must-be-entered": "Freigabe muss eingegeben werden",
   "description": "Beschreibung",
-  "category-view": "Kategorieansicht"
+  "category-view": "Kategorieansicht",
+  "data": "Daten",
+  "checkout-return": " Auscheck-Rückgabe",
+  "checkin-receipts": "Eincheck-Eingänge",
+  "rfid-laundry-scan": "RFID Wäscherei-Scan"
 }
