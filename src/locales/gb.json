@@ -2136,5 +2136,6 @@
   "data": "Data",
   "checkout-return": "Checkout return",
   "checkin-receipts": "Cleckin receipts",
-  "rfid-laundry-scan": "RFID laundry scan"
+  "rfid-laundry-scan": "RFID laundry scan",
+  "invoice-overview-for-period": "Invoice overview for period"
 }

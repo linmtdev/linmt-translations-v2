@@ -2137,5 +2137,6 @@
   "data": "Daten",
   "checkout-return": " Auscheck-Rückgabe",
   "checkin-receipts": "Eincheck-Eingänge",
-  "rfid-laundry-scan": "RFID Wäscherei-Scan"
+  "rfid-laundry-scan": "RFID Wäscherei-Scan",
+  "invoice-overview-for-period": "Rechnungsübersicht für den Zeitraum"
 }

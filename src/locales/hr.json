@@ -2137,5 +2137,6 @@
   "data": "Podatci",
   "checkout-return": "Vraćanje reversa",
   "checkin-receipts": "Primke reversa",
-  "rfid-laundry-scan": "Očitavanje RFID rublja"
+  "rfid-laundry-scan": "Očitavanje RFID rublja",
+  "invoice-overview-for-period": "Pregled faktura za period"
 }
