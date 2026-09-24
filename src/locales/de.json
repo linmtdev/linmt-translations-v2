@@ -2139,5 +2139,6 @@
   "checkin-receipts": "Eincheck-Eingänge",
   "rfid-laundry-scan": "RFID Wäscherei-Scan",
   "invoice-overview-for-period": "Rechnungsübersicht für den Zeitraum",
-  "approvals": "Freigaben"
+  "approvals": "Freigaben",
+  "user-account": "Benutzerkonto"
 }
