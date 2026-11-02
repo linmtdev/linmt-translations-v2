@@ -845,6 +845,7 @@
   "name": "Naziv",
   "name-last-name": "Ime/prezime",
   "name-max-length-128": "Naziv ne smije biti duži od 128 znakova",
+  "name-max-length-100": "Naziv ne smije biti duži od 100 znakova",
   "name-max-length-50": "Naziv ne smije biti duži od 50 znakova",
   "name-min-length-3": "Naziv mora biti dug barem 3 znaka",
   "name-must-be-min-3-chars-long": "Naziv mora biti dugačak barem 3 znaka",

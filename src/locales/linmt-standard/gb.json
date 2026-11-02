@@ -845,6 +845,7 @@
   "name": "Name",
   "name-last-name": "Name/surname",
   "name-max-length-128": "Name can't contain more than 128 characters",
+  "name-max-length-100": "Name can't contain more than 100 characters",
   "name-max-length-50": "Name can't contain more than 50 characters",
   "name-min-length-3": "Name must contain at least 3 characters",
   "name-must-be-min-3-chars-long": "Name must contain at least 3 characters",
