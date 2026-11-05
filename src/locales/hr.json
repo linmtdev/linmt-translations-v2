@@ -2174,5 +2174,6 @@
   "tag-finder-state-very-near": "Vrlo blizu",
   "tag-finder-state-here": "Tu je!",
   "tag-finder-warmer": "Toplije",
-  "tag-finder-colder": "Hladnije"
+  "tag-finder-colder": "Hladnije",
+  "tag-finder-found": "Pronađeno"
 }

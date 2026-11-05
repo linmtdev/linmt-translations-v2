@@ -2174,5 +2174,6 @@
   "tag-finder-state-very-near": "Sehr nah",
   "tag-finder-state-here": "Hier ist er!",
   "tag-finder-warmer": "Wärmer",
-  "tag-finder-colder": "Kälter"
+  "tag-finder-colder": "Kälter",
+  "tag-finder-found": "Gefunden"
 }
