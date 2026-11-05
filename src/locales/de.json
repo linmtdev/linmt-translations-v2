@@ -2176,5 +2176,6 @@
   "tag-finder-warmer": "Wärmer",
   "tag-finder-colder": "Kälter",
   "tag-finder-found": "Gefunden",
+  "tag-finder-found-of": "{{found}} von {{total}} gefunden",
   "tag-finder-unmark-found-question": "Diesen Chip als nicht gefunden markieren? Er kann dann wieder mit dem Radar gesucht werden."
 }
