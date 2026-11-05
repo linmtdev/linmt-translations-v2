@@ -2174,5 +2174,6 @@
   "tag-finder-state-here": "It's here!",
   "tag-finder-warmer": "Warmer",
   "tag-finder-colder": "Colder",
-  "tag-finder-found": "Found"
+  "tag-finder-found": "Found",
+  "tag-finder-unmark-found-question": "Mark this chip as not found? It can then be searched with the radar again."
 }

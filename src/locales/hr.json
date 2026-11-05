@@ -2175,5 +2175,6 @@
   "tag-finder-state-here": "Tu je!",
   "tag-finder-warmer": "Toplije",
   "tag-finder-colder": "Hladnije",
-  "tag-finder-found": "Pronađeno"
+  "tag-finder-found": "Pronađeno",
+  "tag-finder-unmark-found-question": "Označiti ovaj čip kao nepronađen? Ponovno će se moći tražiti radarom."
 }
