@@ -423,6 +423,8 @@
   "dispatch-already-exists-for-given-period": "Isporuka već postoji za odabrani period!",
   "dispatch-cannot-be-moved": "Isporuku nije moguće prebaciti. Isporuka u odabranom periodu već postoji!",
   "dispatch-cannot-be-removed-check-documents": "Isporuku nije moće ukloniti. Isporuka se nalazi na dokumentu!",
+  "dispatch-cannot-be-removed-locked-documents": "Isporuku nije moguće obrisati jer sadrži preuzete otpremnice za profitne centre: {{firstParam}}",
+  "dispatch-cannot-be-changed-locked-documents": "Nije moguće promijeniti odredište ili profitni centar isporuke jer postoje preuzete otpremnice za profitne centre: {{firstParam}}",
   "dispatch-daily-limit-reached": "Dosegnut je maksimalan  isporuka u danu (4)",
   "dispatch-has-unfinished-documents-warning": "Isporuka sadrži ne zaključene dokumente! Zaključite ili otkačite dokumente s isporuke pa pokušajte ponovno.",
   "dispatch-removal-check": "Jeste li sigurni da želite obrisati odabranu isporuku?",

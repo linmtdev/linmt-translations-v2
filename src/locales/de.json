@@ -423,6 +423,8 @@
   "dispatch-already-exists-for-given-period": "Auslieferung existiert bereits für den ausgewählten Zeitraum!",
   "dispatch-cannot-be-moved": "Die Auslieferung kann nicht verschoben werden. Eine Auslieferung im ausgewählten Zeitraum existiert bereits!",
   "dispatch-cannot-be-removed-check-documents": "Die Auslieferung kann nicht entfernt werden. Die Auslieferung befindet sich auf einem Dokument!",
+  "dispatch-cannot-be-removed-locked-documents": "Die Auslieferung kann nicht gelöscht werden, da sie abgeholte Lieferscheine für folgende Profitcenter enthält: {{firstParam}}",
+  "dispatch-cannot-be-changed-locked-documents": "Das Ziel oder Profitcenter der Auslieferung kann nicht geändert werden, da abgeholte Lieferscheine für folgende Profitcenter vorhanden sind: {{firstParam}}",
   "dispatch-daily-limit-reached": "Das Tageslimit für Auslieferungen wurde erreicht (4)",
   "dispatch-has-unfinished-documents-warning": "Die Auslieferung enthält nicht abgeschlossene Dokumente! Schließen Sie die Dokumente ab oder entfernen Sie sie von der Auslieferung und versuchen Sie es erneut.",
   "dispatch-removal-check": "Sind Sie sicher, dass Sie die ausgewählte Auslieferung löschen möchten?",

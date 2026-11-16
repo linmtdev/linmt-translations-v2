@@ -423,6 +423,8 @@
   "dispatch-already-exists-for-given-period": "Dispatch already exists for given period!",
   "dispatch-cannot-be-moved": "Dispatch can't be moved. Dispatch for given period already exists!",
   "dispatch-cannot-be-removed-check-documents": "Dispatch can't be removed. Dispatch is on document!",
+  "dispatch-cannot-be-removed-locked-documents": "Dispatch can't be removed because it contains picked up delivery notes for profit centers: {{firstParam}}",
+  "dispatch-cannot-be-changed-locked-documents": "Dispatch destination or profit center can't be changed because there are picked up delivery notes for profit centers: {{firstParam}}",
   "dispatch-daily-limit-reached": "Maximum daily dispatch limit reached (4)",
   "dispatch-has-unfinished-documents-warning": "Dispatch has unfinished documents! Finalize or unlink the documents from dispatch then try again.",
   "dispatch-removal-check": "Are you sure you want to remove selected dispatch?",
